@@ -1,0 +1,181 @@
+body {
+    background-color: #fbfbfb;
+}
+h2 {
+    color: #fff;
+}
+h3 {
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+i {
+    padding: 0px .5rem;
+    color: #fff;
+}
+a:hover{
+    text-decoration: none;
+}
+.red {
+    color: #db3953;
+}
+/* header */
+.top-header {
+    background-color: #24283c;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.top-header i:hover {
+    color: #db3953;
+}
+.white, .white a{
+    color: #fff;
+}
+.nav-item a {
+    color: #24283c;
+}
+.nav-pills .nav-link.active {
+    color: #fff;
+    cursor: default;
+    background-color: #db3953;
+    transform: skew(-15deg);
+    border-radius: 0px;
+}
+.nav-pills .nav-link.active a {
+    transform: skew(0deg);
+}
+.navbar-brand img {
+    height: 40px;
+}
+/* banner */
+.banner {
+    background: rgba(0,0,0,0.5) url(images/banner.jpg) no-repeat;
+    height: 300px;
+}
+.bread {
+    padding-top: 10%;
+}
+.breadcrumb {
+    background: none;
+    padding: .5rem 0rem;
+}
+.breadcrumb a {
+    color: #fff;
+}
+/* form to buy */
+.first-string {
+    border-bottom: 5px solid #fff;
+}
+.form-control {
+    border-radius: 0px;
+}
+.info h3 {
+    text-align: left;
+}
+.info button {
+    float: right;
+}
+.shop {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.title-shop {
+    background-color: #fff;
+}
+.close {
+    float: none;
+}
+.btn-primary {
+    background-color:#db3953;
+    border-color: #db3953;
+    text-transform: uppercase;
+}
+.info {
+    margin-top: 30px;
+}
+.estimate button {
+    margin-top: 8px;
+}
+select {
+    margin-bottom: 2px;
+}
+.half {
+    background-color: #fff;
+    color: #db3953;
+}
+.second-string {
+    border-bottom: 1px solid #333;
+}
+.text-left {
+    text-align: left;
+}
+.text-right {
+    text-align: right;
+}
+/* book now */
+.book-now {
+    background-color: #db3953;
+    margin-bottom: -40px;
+    padding: 20px 15px;
+    text-align: center;
+    transform: skew(-10deg);
+    color: #fff;
+    text-transform: uppercase;
+}
+.book-now a {
+    color: #fff;
+}
+button.half-white {
+    margin-left: 10%;
+}
+.half-white {
+    background: none;
+    color: #fff;
+    border-color: #fff;
+    color: #fff;
+}
+/* footer */
+.footer {
+    background-color: #24283c;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer a {
+    color: #fff;
+}
+.footer a:hover {
+    color: #db3953;
+}
+.footer.nav-link {
+    padding: .3em 0;
+}
+.footer .nav-item {
+    font-size: .8rem;
+    padding-left: 0px;
+}
+.footer .nav-item a {
+    padding-left: 0px;
+}
+.footer-menu {
+    margin-top: 40px;
+}
+.f-bottom {
+    background-color: #db3953;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.f-bottom i:hover {
+    color: #24283c;
+}
+#thinker {
+    color: #24283c;
+}
+.payment {
+    padding-right: 0px;
+}
+.payment ul li {
+    display: inline-block;
+    list-style: none;
+}
